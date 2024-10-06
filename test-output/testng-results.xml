@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-04T23:34:47 IST" name="Default suite" finished-at="2024-10-04T23:34:57 IST" duration-ms="9756">
+    <groups>
+    </groups>
+    <test started-at="2024-10-04T23:34:47 IST" name="Default test" finished-at="2024-10-04T23:34:57 IST" duration-ms="9756">
+      <class name="CommentApi.Comments">
+        <test-method signature="AddNewComment()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:48 IST" name="AddNewComment" finished-at="2024-10-04T23:34:51 IST" duration-ms="3187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewComment -->
+        <test-method signature="Delete()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:51 IST" name="Delete" finished-at="2024-10-04T23:34:52 IST" duration-ms="1511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method signature="UpdateComment()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:52 IST" name="UpdateComment" finished-at="2024-10-04T23:34:53 IST" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateComment -->
+        <test-method signature="allComment()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:53 IST" name="allComment" finished-at="2024-10-04T23:34:54 IST" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allComment -->
+        <test-method signature="commentByPostid()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:54 IST" name="commentByPostid" finished-at="2024-10-04T23:34:55 IST" duration-ms="971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- commentByPostid -->
+        <test-method signature="singleComment()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:55 IST" name="singleComment" finished-at="2024-10-04T23:34:56 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleComment -->
+        <test-method signature="skipComment()[pri:0, instance:CommentApi.Comments@1151e434]" started-at="2024-10-04T23:34:56 IST" name="skipComment" finished-at="2024-10-04T23:34:57 IST" duration-ms="1125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skipComment -->
+      </class> <!-- CommentApi.Comments -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
